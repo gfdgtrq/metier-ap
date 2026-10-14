@@ -397,3 +397,13 @@ a.reference:hover {
 a.reference.cliquee {
     color: #EF4444 !important;
 }
+
+/* cartes du bloc 3  */
+#CardBg > .card {
+display: block;
+padding: 24px;
+margin-bottom: 20px;
+background: #101B2D;
+border: 1px solid #2A3B53;
+border-radius: 14px;
+}
